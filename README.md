@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my GitHub! </br> I'm <b>Rawda Mohamed</b>, a passionate <b>Computer Science student</b> at <b>Benha National University</b> 🎓. I'm currently exploring the world of <b>software development</b>, <b>machine learning</b>, and <b>mobile app development</b> using Flutter.</p>
+<p></br> I'm <b>Rawda Mohamed</b>, a passionate <b>Computer Science student</b> at <b>Benha National University</b> 🎓. I'm currently exploring the world of <b>software development</b>, <b>machine learning</b>, and <b>mobile app development</b> using Flutter.</p>
 
 <h3>🛠️ Technologies & Tools I Use</h3>
 <p>
