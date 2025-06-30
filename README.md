@@ -20,7 +20,6 @@
   <li><b>📱 Quiz App</b> – A responsive web-based quiz application with HTML, CSS, and JavaScript.</li>
   <li><b>🧠 Diabetes Classification</b> – A machine learning project for predicting diabetes using classification models.</li>
   <li><b>💓 Heart Disease Prediction</b> – A machine learning model to classify patients based on risk of heart disease.</li>
-  <li><b>🏥 Hospital Management System</b> – Built using Visual Paradigm tools as part of a team-based design project.</li>
 </ul>
 </ul>
 
