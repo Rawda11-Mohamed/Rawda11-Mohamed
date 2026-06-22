@@ -72,13 +72,6 @@ Responsive web application built with HTML, CSS, and JavaScript featuring dynami
 <li>✅ CCNAv7: Introduction to Networks – Cisco Networking Academy</li>
 </ul>
 
-<h3>🌱 Currently Learning</h3>
-
-<ul>
-<li>Advanced Flutter Development</li>
-<li>Deep Learning & Computer Vision</li>
-<li>Software Architecture & Clean Code</li>
-</ul>
 
 <h3>📫 Connect With Me</h3>
 
