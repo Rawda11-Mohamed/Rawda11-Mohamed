@@ -37,7 +37,7 @@ I'm <b>Rawda Mohamed</b>, a <b>Computer Science graduate</b> from <b>Benha Natio
 <b>🤟 Arabic Sign Language Recognition System (Graduation Project)</b><br>
 AI-powered system that translates Arabic Sign Language into text and speech in real time using deep learning and hand landmark extraction. Includes a Flutter mobile application with live sign interpretation and integrated online meetings with real-time sign-to-text translation.
 </li>
-
+ <li> <b>📊 Student Attendance Tracking System</b><br> A student attendance management system designed to streamline attendance tracking and monitoring. The system allows instructors to manage attendance records, monitor student participation, generate attendance reports, and improve administrative efficiency. </li> 
 <li>
 <b>🛒 E-Commerce App</b><br>
 Flutter application featuring product browsing, shopping cart management, and user authentication.
