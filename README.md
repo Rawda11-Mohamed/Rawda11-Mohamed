@@ -41,8 +41,7 @@ AI-powered system that translates Arabic Sign Language into text and speech in r
 <li>
 <b>🛒 E-Commerce App</b><br>
 Flutter application featuring product browsing, shopping cart management, and user authentication.
-</li>
-
+</li> <li> <b>📊 Student Attendance Tracking System</b><br> A student attendance management system designed to streamline attendance tracking and monitoring. The system allows instructors to manage attendance records, monitor student participation, generate attendance reports, and improve administrative efficiency. </li> <br>
 <li>
 <b>📰 News App</b><br>
 Flutter application that fetches real-time news from external APIs with category filtering and search functionality.
